@@ -1,0 +1,39 @@
+
+F
+SwiftUI/DateView.swift,b\8\b837240ceaff6c37bf1b4cc0649aa68b2d2ac5a9
+I
+SwiftUI/ContentView.swift,e\9\e9efd59dbe5ac7ccdac9b9b44a44f5558654a069
+L
+SwiftUI/PreviewWrapper.swift,7\e\7e0a8a1fa8c55a2fba70a5a791d4ed79d8a7e9f9
+B
+SwiftUI/Test.swift,3\0\305c50447487e739049c571158c4c5996c8dcd0a
+G
+UIKit/AppDelegate.swift,9\0\90d663650ceff0d90c6d110580d8a88e4c2b75e6
+U
+%UIKit/Base/BaseTabBarController.swift,5\4\54018c3586263c58fe8747769751b1aeb50a846e
+W
+'UIKit/View/AllDetailCustomSubView.swift,5\4\547f8e59d9fe2cec8eb235b4d83574ec7d23a503
+X
+(UIKit/Controller/AllViewController.swift,b\b\bbcaa184bbcc9992f4574ee81b6318b19c7c0300
+^
+.UIKit/Controller/AllDetailViewController.swift,1\7\17470f5dad4c2c7444efc56c6c5bd04a5d14594a
+V
+&UIKit/Cell/AllCollectionViewCell.swift,7\7\770cbef6253b66a002bcb6ace0327e361a6ad1b0
+O
+UIKit/Cell/AllContentCell.swift,b\f\bfe0255eb6fbc0fa5273e650c5b4ae4db9b394e2
+F
+Swift/BlockClass.swift,c\6\c6bbed86364bb417e170ccabde2de8b710b9d1b4
+I
+Swift/SetBlockClass.swift,4\b\4b40350206578516c8b7e6fade0c22ade4891e1f
+\
+,UIKit/Cell/AllDetailCollectionViewCell.swift,8\7\878c2b23fe0248e88e06d8d2a3ac8e48d5160555
+Q
+!Swift/delegate/AnotherClass.swift,f\1\f18f03a4a0149df745907c7943a1bf09bc59755b
+L
+Swift/delegate/MyClass.swift,a\f\afabd74f699fbfeceebdfc206fcde99fb0af7a77
+O
+Swift/delegate/MyDelegate.swift,7\4\74adb04af23bc7d435caf109fdb65cd7db9d45b0
+P
+ Swift/delegate/UITableView.swift,d\4\d434044934f2a873a83a7a587f35a9061a332979
+X
+(Swift/delegate/UITableViewDelegate.swift,a\6\a6d5eab40b0de77b1c445bbd9c0532f951462e8b
